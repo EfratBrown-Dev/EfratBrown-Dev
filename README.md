@@ -41,12 +41,12 @@ I'm passionate about building end-to-end systems, backend architecture, and solv
 
 **Also:** SQL Server • Cloud Firestore
 
-#### Tools & Technologies
+#### Tools & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman" />
 </a>
 
-**AI & Concepts:** Gemini API • NLP • OOP • REST API • Microservices
+**AI & Tools:** Gemini API • Claude • LLMs • Prompt Engineering • REST API • Microservices
 
 ---
 
