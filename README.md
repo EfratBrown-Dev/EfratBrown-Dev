@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Efrat Brown
 
-<!--
-**efratbrown3440/efratbrown3440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Full-Stack Software Developer | Practical Engineering Student**
 
-Here are some ideas to get you started:
+I'm passionate about building end-to-end systems and solving complex problems.
+🌱 Always learning and growing technologically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🙋‍♀️ About Me
+
+* 🚀 Full-Stack Developer with experience in building client-side and server-side applications.
+* 🎓 Software Engineering student, focusing on practical, real-world projects.
+* 💡 Interested in software architecture, system development, and integrating new technologies.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+C# | Java | C++ | Python | JavaScript | TypeScript
+
+**Web Development:**
+React | Angular | Node.js
+
+---
+
+### 📫 Connect with me
+
+* 📧 Email: [Your Email Here]
+* 💼 LinkedIn: [Your LinkedIn Link Here]
