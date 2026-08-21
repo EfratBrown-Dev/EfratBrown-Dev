@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Efrat Brown
 
-👩‍💻 **Full-Stack Software Developer | Practical Engineering Student**
+💻 **Full-Stack, Backend & AI Developer**
 
-I'm passionate about building end-to-end systems, backend architecture, and solving complex real-world problems.
+Focused on building reliable end-to-end systems, scalable backend architectures, and practical AI solutions.
 
 🌱 Always learning, always building.
 
@@ -14,7 +14,6 @@ I'm passionate about building end-to-end systems, backend architecture, and solv
 * 💼 Developed intelligence systems and backend services at FinTrust.
 * 🎓 Graduated with honors in Practical Software Engineering.
 * 💡 Strong foundation in algorithms, data structures, and object-oriented design.
-
 ---
 
 ### 🛠️ Tech Stack
